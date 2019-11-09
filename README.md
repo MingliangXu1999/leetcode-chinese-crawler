@@ -1,5 +1,5 @@
 # leetcode-chinese-crawler
-#### 此代码用于USTC 2019秋季学期web课程扩展实验
+#### 此代码用于USTC 2019秋季学期web课程开放实验
 
 ## 概述
 爬取 LeetCode中文试题。
