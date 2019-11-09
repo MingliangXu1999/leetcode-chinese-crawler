@@ -17,12 +17,12 @@ Windows 10  python 3;
 * json
 * re
 
-##使用说明
+## 使用说明
 使用前需改写python文件中的username以及password，该账户密码用于登录leetcode中文账户
 后期版本可能会实现命令行输入操作
 
 
-##输出
+## 输出
 将爬取到的内容按照
 ```
 [
