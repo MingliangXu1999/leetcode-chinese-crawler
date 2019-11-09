@@ -49,11 +49,11 @@ Windows 10  python 3;
 				"totalSubmission": 381432,				// 提交数量
 				"solution": 
 				{
-								'username':'力扣 (LeetCode)',
-								'createdtime':'2018-05-27T16:26:11.200614+00:00',
-								'viewCount':162904,
-								'commentCount': 250,
-								"content": "方法一：暴力法暴力法很简单，遍历每个元素 x..."   // 解答内容
+					'username':'力扣 (LeetCode)',
+					'createdtime':'2018-05-27T16:26:11.200614+00:00',
+					'viewCount':162904,
+					'commentCount': 250,
+					"content": "方法一：暴力法暴力法很简单，遍历每个元素 x..."   // 解答内容
 				}
 			},
 			...
