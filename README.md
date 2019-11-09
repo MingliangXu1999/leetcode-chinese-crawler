@@ -24,6 +24,7 @@ Windows 10  python 3;
 
 ##输出
 将爬取到的内容按照
+```
 [
 			{
 				"questionId": "135",					  // id
@@ -56,6 +57,7 @@ Windows 10  python 3;
 			},
 			...
 			]
+```
   输出至'./problems.txt'下，后期可能实现一题一目录形式以便用户做题
   
 
